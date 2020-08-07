@@ -1,0 +1,48 @@
+body {
+	background-color: lightblue;
+ 
+}
+
+h1 {
+	color: blue;
+}
+
+#card {
+	width: 100%;
+	height: 100%;
+	border: 5px solid red;
+	padding: 20px 40px 20px 40px;
+	margin-bottom: 40px;
+ }
+
+
+h2 {
+	text-align: center;
+	color: white;
+	font-size: 30px;
+	font-family: Oxygen, sans-serif;
+	margin-bottom: 40px;
+}
+
+.tag {
+
+	width: 30%;
+	float: right;
+	position: relative;
+	left: 40px;
+	bottom: 20px;
+	background-color: rgba(38, 143, 71, 0.5);
+	font-size: 20px;
+	font-style: sans-serif;
+	color: rgba(79, 68, 113, 0.8);
+	text-align: center;
+}
+
+
+a {
+	text-align: center;
+	background-color: white;
+	color: rgb(61, 68, 113, 0.8);
+	font-size: 25px;
+
+}

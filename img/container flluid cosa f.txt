@@ -1,0 +1,3 @@
+
+The class 'container-fluid' stretches to the full width of the browser window (minus some margins) 
+and automatically adjusts its width as you change the width of the browser.
